@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="main/resource/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/main/resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<accessrules>
+			<accessrule kind="accessible" pattern="**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/MyWorkSpace/Eclipse/Web-Test/lib/zip/common-util.jar"/>
+	<classpathentry kind="lib" path="lib/ApacheJMeter_java.jar"/>
+	<classpathentry kind="lib" path="lib/log4j.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.lang_2.4.0.v201005080502.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-2.40.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/common-util.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-4.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/QAMOCK-Test/lib/zip/spring-core.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/ApacheJMeter_core.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.aop-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.expression-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.7-20101029_1.jar"/>
+	<classpathentry kind="lib" path="lib/jxl-2.6.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
